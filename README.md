@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Junior AI & Data Scientist Engineer <br>Pursuing a B.cs at The Egyptian E-learning University (Expected May 2027)<br>
 
 
